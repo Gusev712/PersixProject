@@ -47,3 +47,8 @@ let accessAllowed = (age < 5) ? 'This information isn`t for you.':
 alert(accessAllowed);
 ```
 ********
+
+### **Education:**
+- **Scientific Research Nuclear University MEPHI:** *Faculty of information security (first year)*
+- **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
+********
