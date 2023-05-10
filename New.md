@@ -14,10 +14,10 @@ I am a first-year student at a nuclear research university.
 - HTML
 - CSS
 - JavaScript (Basic)
-- Python
+- Python, C, Pascal
 - Django
 - Git, Github, GitLab
-- Visual Studio Code
+- Visual Studio Code, PyCharm
 *******
 ### **Code example:**
 *CSS code for setting the background:*
@@ -45,10 +45,5 @@ let accessAllowed = (age < 5) ? 'This information isn`t for you.':
 (age <100 ) ? 'Good morning, Sir.':
 'So interesting.';
 alert(accessAllowed);
-
-let question = prompt(`How much it will be ${'2+2*2'}?`,'');
-let answer = (question == 6) ? 
-alert('Right! You are from Russia!'): 
-alert(`You are wrong. Wright answer is ${2+2*2}.`);
 ```
 ********
