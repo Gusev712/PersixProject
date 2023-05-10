@@ -1,1 +1,2 @@
-# Hello, World!
+# Gusev Artyom
+## Junior Frontend Developer
