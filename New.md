@@ -20,6 +20,9 @@ I am a first-year student at a nuclear research university.
 - Visual Studio Code
 *******
 ### **Code example:**
+**CSS code for setting the background.**
+
+
 ```
 body {
 	background: 
