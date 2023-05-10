@@ -52,3 +52,9 @@ alert(accessAllowed);
 - **Scientific Research Nuclear University MEPHI:** *Faculty of information security (first year)*
 - **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
 ********
+
+### **Languages:**
+
+|   English   |  Russian   |  French  |
+|-------------|------------|----------|
+|     B1+     |   Native   |    A2    | 
