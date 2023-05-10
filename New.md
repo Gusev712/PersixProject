@@ -5,7 +5,7 @@
 **Phone:** 8-958-801-00-98   
 **E-mail:** gusev.7ema@yandex.ru   
 **Telegram:** @Gusar_654   
-**Git-Hub** Gusev-712
+**Git-Hub:** Gusev-712
 *******
 ### **Personal qualities:**
 I am a first-year student at a nuclear research university.
@@ -20,8 +20,7 @@ I am a first-year student at a nuclear research university.
 - Visual Studio Code
 *******
 ### **Code example:**
-**CSS code for setting the background.**
-
+*CSS code for setting the background:*
 
 ```
 body {
@@ -36,3 +35,20 @@ body {
       background-size: 80em 45,71428571em;   
 }
 ```
+
+*Script for accessing a page by age:*
+
+```
+let age = prompt('How old are you?','');
+let accessAllowed = (age < 5) ? 'This information isn`t for you.': 
+(age < 18 ) ? 'Hi, Dude!':
+(age <100 ) ? 'Good morning, Sir.':
+'So interesting.';
+alert(accessAllowed);
+
+let question = prompt(`How much it will be ${'2+2*2'}?`,'');
+let answer = (question == 6) ? 
+alert('Right! You are from Russia!'): 
+alert(`You are wrong. Wright answer is ${2+2*2}.`);
+```
+********
