@@ -1,2 +1,3 @@
-# Gusev Artyom
-## Junior Frontend Developer
+# **Gusev Artyom**
+************
+### **Junior Frontend Developer**
