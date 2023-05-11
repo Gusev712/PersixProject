@@ -8,7 +8,7 @@
 **Git-Hub:** Gusev-712
 *******
 ### **Personal qualities:**
-I am a first-year student at a nuclear research university.
+I am a first-year student at a nuclear research university. Today I want to learn how to create useful and interesting applications which will help people and make their lives easier. Also I really enjoy working in a team because I can find common ground with anyone. It is so important for me to find a friendly industrious team, with which I be able to create more complex and useful projects.
 *******
 ### **Skills and Proficiency:**
 - HTML
