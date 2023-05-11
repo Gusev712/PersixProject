@@ -19,7 +19,7 @@ I am a first-year student at a nuclear research university.
 - Git, Github, GitLab
 - Visual Studio Code, PyCharm
 *******
-### **Code example:**
+### **Code examples:**
 *CSS code for setting the background:*
 
 ```
@@ -50,7 +50,7 @@ alert(accessAllowed);
 
 ### **Education:**
 - **Scientific Research Nuclear University MEPHI:** *Faculty of information security (first year)*
-- **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
+- **RS Schools Course «JavaScript/Front-end. Stage 0»** *(in progress)*
 ********
 
 ### **Languages:**
